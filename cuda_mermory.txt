@@ -1,0 +1,4 @@
+cudaMolloc()
+在设备端分配global memory
+cudaFree()
+释放存储空间
