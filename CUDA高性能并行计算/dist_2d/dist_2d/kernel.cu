@@ -1,7 +1,7 @@
 
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
-#include<GL/glew.h>
+
 
 #define W 500
 #define H 500
